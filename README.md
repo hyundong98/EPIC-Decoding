@@ -12,9 +12,9 @@
   </a>
 </p>
 
-<!-- <div align="center">
-    <a href="<PAPER_URL>"><b>Paper Link</b> 📖</a>
-</div><br> -->
+<div align="center">
+    <a href="https://arxiv.org/abs/2606.00722"><b>Paper Link</b> 📖</a>
+</div><br>
 
 ![Main Image](./figures/main.png)
 
